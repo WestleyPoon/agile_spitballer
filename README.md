@@ -1,8 +1,6 @@
 <img align="right" width="150" src="/assets/images/idea-bulb.png">
 
-# Agile Process Spitballer
-
-##### DOMAIN HERE
+# [Agile Process Spitballer](https://agile.westleypoon.com)
 
 This repo contains an Agile Process Spitballer. This was designed to assist developers with the agile ideation process.  We have created a cohesive app that ties together 4 different API's to help get your creative juices flowing.
 
